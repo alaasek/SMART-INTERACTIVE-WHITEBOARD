@@ -63,7 +63,7 @@ smart-interactive-whiteboard/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/smart-interactive-whiteboard.git
+git clone https://github.com/alaasek/smart-interactive-whiteboard.git
 cd smart-interactive-whiteboard
 ```
 
