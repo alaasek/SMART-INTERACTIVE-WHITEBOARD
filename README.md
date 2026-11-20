@@ -116,7 +116,7 @@ This project is developed as part of the **Three-Week Computer Vision Project (2
 
 ## Team
 
-*Add team members and their contributions here.*
+
 
 ## Project Status
 
